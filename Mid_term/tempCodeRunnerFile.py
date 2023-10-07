@@ -1,0 +1,1 @@
+col < 0 and col > self.__cols
